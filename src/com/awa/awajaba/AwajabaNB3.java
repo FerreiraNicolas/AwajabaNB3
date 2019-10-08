@@ -5,6 +5,8 @@
  */
 package com.awa.awajaba;
 
+import java.time.LocalDate;
+
 /**
  *
  * @author etudiant
@@ -13,7 +15,9 @@ package com.awa.awajaba;
 
 class Repas{
 	
-
+	private int numero;
+	private LocalDate date;
+	
 
     
 }
